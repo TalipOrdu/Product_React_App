@@ -1,5 +1,5 @@
 {
-  "homepage": "https://TalipOrdu.github.io/Product_React_App",
+  "homepage": "https://talipordu.github.io/Product_React_App",
   "name": "intro",
   "version": "0.1.0",
   "private": true,
@@ -8,12 +8,16 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "alertify": "0.3.0",
+    "cores": "^0.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "6.4.0",
     "react-scripts": "5.0.1",
     "reactstrap": "9.1.4",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "cors":"2.8.5"
   },
   "scripts": {
     "start": "react-scripts start",
