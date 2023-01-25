@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/80225142/214640152-8b9fca22-f8ff-487f-a60d-c4cee90162c8.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,6 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+if you want to work with db.json run this code :
+
+## `json-server --watch db.json`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
